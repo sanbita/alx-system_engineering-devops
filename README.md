@@ -1,1 +1,2 @@
-My first readme alone
+task 0. Where am I?
+
