@@ -1,2 +1,2 @@
 #!/bin/bash
-cwd=$(pwd)
+(ls -la /tmp/ | grep ^d | wc -l)
